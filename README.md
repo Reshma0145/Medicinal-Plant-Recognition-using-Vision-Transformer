@@ -1,2 +1,20 @@
-# Medicinal-Plant-Recognition-using-Vision-Transformer
-A deep learning project for medicinal plant recognition from leaf images using Vision Transformer (ViT), developed with PyTorch for accurate image classification.
+## 📈 Training Accuracy
+
+![Training Accuracy](images/accuracy_curve.png)
+
+## 📉 Training Loss
+
+![Training Loss](images/loss_curve.png)
+
+## 🎯 Confusion Matrix
+
+![Confusion Matrix](images/confusion_matrix.png)
+
+## 📊 ROC Curve
+
+![ROC Curve](images/roc_curve.png)
+
+## 🌿 Sample Predictions
+
+![Sample Predictions](images/sample_predictions.png)
+
